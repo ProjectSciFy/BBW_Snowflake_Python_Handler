@@ -1,0 +1,14 @@
+----------------------------------------------------------------------
+|"NAME"               |"BILLS"  |"TYPE"    |"USER_UDF(BILLS, TYPE)"  |
+----------------------------------------------------------------------
+|Gal Pinhasi          |5        |tens      |50                       |
+|Jorge Washing A Ton  |10       |ones      |10                       |
+|Abe Link             |25       |fives     |125                      |
+|Andy Yackson         |15       |twenties  |300                      |
+|Alex Ham             |15       |tens      |150                      |
+|Uses S. Grant        |10       |fifties   |500                      |
+|Ben To be Frank      |4        |hundreds  |400                      |
+----------------------------------------------------------------------
+
+
+Wealthiest person is Uses S. Grant with $500.

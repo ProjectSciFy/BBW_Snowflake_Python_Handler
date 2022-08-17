@@ -1,0 +1,30 @@
+
+
+	---------< STARTING SESSION >---------
+
+
+---------------------------------------------------------------------------
+|"NAME"               |"BILLS"  |"TYPE"    |"USER_UDF(BILLS, TYPE, NUM)"  |
+---------------------------------------------------------------------------
+|Gal Pinhasi          |5        |tens      |100                           |
+|Jorge Washing A Ton  |10       |ones      |10                            |
+|Abe Link             |25       |fives     |375                           |
+|Andy Yackson         |15       |twenties  |600                           |
+|Alex Ham             |15       |tens      |150                           |
+|Uses S. Grant        |10       |fifties   |500                           |
+|Ben To be Frank      |4        |hundreds  |800                           |
+---------------------------------------------------------------------------
+
+
+Wealthiest person is Ben To be Frank with $800.
+
+	---------< SHOW DIAGNOSTICS >---------
+
+	   > Current path: C:\PATH\TO\LOCAL\ENVIRONMENT\LIBRARY\
+	   > 1 Packages in the current session: 'pandas'
+	   > 1 Imports in the current session: 'random.py'
+	   > Run-time: 9.304769039154053 seconds
+	   > Analyzed: [1] UDFs
+
+	---------< FINISHED SESSION >---------
+

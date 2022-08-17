@@ -1,0 +1,8 @@
+NAME			BILLS	TYPE
+Gal Pinhasi		5	tens
+Jorge Washing A Ton	10	ones
+Abe Link			25	fives
+Andy Yackson		20	twenties
+Alex Ham			15	tens
+Uses S. Grant		10	fifties
+Ben To be Frank		4	hundreds
