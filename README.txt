@@ -1,7 +1,7 @@
 +-----------------------------+
 |Author: Gal Pinhasi          |
 |Assisted By: Daniel Lubuguin |
-|Sponsor: Bath and Body Works |
+|Company: Bath and Body Works |
 |Date Created: 7/26/2022      |
 +-----------------------------+
 
