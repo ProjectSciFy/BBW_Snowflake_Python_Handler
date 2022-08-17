@@ -1,6 +1,7 @@
 +-----------------------------+
 |Author: Gal Pinhasi          |
 |Assisted By: Daniel Lubuguin |
+|Sponsor: Bath and Body Works |
 |Date Created: 7/26/2022      |
 +-----------------------------+
 
@@ -57,7 +58,7 @@
 |           newPath: String representation of the local library folder containing all imports.                                                      |
 |                                                                                                                                                   |
 |getPath() -> str                                                                                                                                   |
-|       Returns                                                                                                                                     |                                            
+|       Returns                                                                                                                                     |
 |           The string representation of the path to the library containing all imports.                                                            |
 |                                                                                                                                                   |
 |_list_packages(session: Session) -> list                                                                                                           |
